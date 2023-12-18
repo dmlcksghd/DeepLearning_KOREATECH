@@ -1,0 +1,13 @@
+Homework_4_1.ipynb : https://colab.research.google.com/drive/1wliBmT5CkLq56mtnTc_MQmv64rfuXHxh?hl=ko#scrollTo=aYzt1tIV0v-N
+
+
+
+Homework_4_2.ipynb : 
+
+https://colab.research.google.com/drive/1eXR_PB4LJ0KivQlBfzeyYeVhcjyu7QbZ?hl=ko#scrollTo=eBslGvAs4qW-
+
+
+
+Homework_4_3.ipynb : 
+
+https://colab.research.google.com/drive/1E-wEJkW5ROit23j0JLTKbKh5C0MWHgJu?hl=ko#scrollTo=fLb2Bgs39jZ4
